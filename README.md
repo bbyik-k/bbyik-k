@@ -2,13 +2,14 @@
 
 <a href="https://bbyiktion.notion.site/resume?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
 <a href="mailto:ikbyeong.kim@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/ikbyeong.kim@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
-<a href="https://bbyiktion.notion.site/resume?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Blog-111111?style=flat-square&logo=githubpages&logoColor=FFFFFF"/></a>
+<a href="https://bbyiktion.notion.site/resume?pvs=4" target="_blank"><img src="https://img.shields.io/badge/GitHub Pages-111111?style=flat-square&logo=githubpages&logoColor=FFFFFF"/></a>
 
 Welcome to my GitHub Page! I'm Byeongik Kim, a Frontend Developer passionate about creating seamless user experiences and solving real-world problems through efficient code.
 
-<br>
+<br/>
 
 ## Skills
+
 <div>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="23">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="23">
@@ -19,7 +20,9 @@ Welcome to my GitHub Page! I'm Byeongik Kim, a Frontend Developer passionate abo
 <img src="https://img.shields.io/badge/tailwindcss-1daabb?style=for-the-badge&logo=tailwind-css&logoColor=white" height="23">
 </div>
 
-## About
+<br/>
+
+## Highlights
 
 <details>
 <summary>🧑🏻‍💻 <b>BaekJoon Stats: </b></summary>
