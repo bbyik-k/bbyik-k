@@ -32,6 +32,7 @@ Welcome to my GitHub Page! I'm Byeongik Kim, a Frontend Developer passionate abo
 </p>
 </details>
 
+<!--
 <details>
 <summary>&#128293; <b>Github Streaks: </b></summary>
   <br>
@@ -39,6 +40,7 @@ Welcome to my GitHub Page! I'm Byeongik Kim, a Frontend Developer passionate abo
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=bbyik-k&hide_border=true&theme=react" />  
 </p>
 </details>
+-->
 
 <details>
 <summary>😎 <b>Github Stats: </b></summary>
