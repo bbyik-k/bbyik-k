@@ -2,7 +2,9 @@
 
 <a href="https://bbyiktion.notion.site/resume?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
 <a href="mailto:ikbyeong.kim@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/ikbyeong.kim@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+<!--
 <a href="https://bbyik-k.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Pages-111111?style=flat-square&logo=githubpages&logoColor=FFFFFF"/></a>
+-->
 
 Welcome to my GitHub Page! I'm Byeongik Kim, a Frontend Developer passionate about creating seamless user experiences and solving real-world problems through efficient code.
 
