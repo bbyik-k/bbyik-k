@@ -24,7 +24,7 @@ Welcome to my GitHub Page! I'm Byeongik Kim, a Frontend Developer passionate abo
 </div>
 
 <br/>
-
+<!--
 ## Highlights
 
 <details>
@@ -34,6 +34,7 @@ Welcome to my GitHub Page! I'm Byeongik Kim, a Frontend Developer passionate abo
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kby00517"/>
 </p>
 </details>
+-->
 
 <!--
 <details>
@@ -45,11 +46,12 @@ Welcome to my GitHub Page! I'm Byeongik Kim, a Frontend Developer passionate abo
 </details>
 -->
 
+<!--
 <details>
 <summary>😎 <b>Github Stats: </b></summary>
 <br>
 <p align = "center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=bbyik-k&&show_icons=true&theme=react&line_height=27"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbyik-k&theme=react&langs_count=3">
 </p>
 </details>
+-->
